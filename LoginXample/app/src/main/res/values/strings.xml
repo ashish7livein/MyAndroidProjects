@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginXample</string>
+
+    <string name="login_name">Your user name</string>
+    <string name="password">Your password</string>
+    <string name="button_value">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_success">SuccessActivity</string>
+
+    <string name="back">Back</string>
+    <string name="success">SUCCESS</string>
+    <string name="title_activity_failure">FailureActivity</string>
+
+    <string name="failure">FAILED!!!!</string>
+</resources>
